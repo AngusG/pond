@@ -1,0 +1,4 @@
+data/FXOS8700CQ.lib.i
+data/mbed.bld.i
+data/MbedJSONValue.lib.i
+data/main.cpp.i
